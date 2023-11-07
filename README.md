@@ -1,1 +1,1 @@
-# tuto-stable-diffusion
+# tuto-diffusion
